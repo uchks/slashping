@@ -1,6 +1,6 @@
 # SlashPing
 A Minecraft Forge 1.8.9 mod that adds a `/ping` command to check your own or another player's ping, on ANY server. <br>
-Inspired by AGC on MMC.. 
+Inspired by AGC on MMC.
 
 ## Features
 - **/ping command**: Check your own ping or another player's ping
@@ -24,4 +24,4 @@ Inspired by AGC on MMC..
 3. Launch Minecraft with Forge 1.8.9
 
 ## Credits
-started by asbyth (orignal project gone), finished by uchks.
+started by asbyth (original project gone), finished by uchks.
